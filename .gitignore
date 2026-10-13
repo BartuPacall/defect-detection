@@ -2,4 +2,7 @@
 data/
 __pycache__/
 *.pt
-*.pth
+*.pthyolo_data/
+yolo_data/
+runs/
+*.pt
