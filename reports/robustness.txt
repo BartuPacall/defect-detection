@@ -1,0 +1,12 @@
+== artirmasiz ==
+normal         ortalama 1.0000  (seed'ler: [1.0, 1.0, 1.0])
+parlak +60     ortalama 0.8454  (seed'ler: [0.8111, 0.8278, 0.8972])
+koyu -60       ortalama 0.8176  (seed'ler: [0.8778, 0.8306, 0.7444])
+kontrast x0.5  ortalama 0.9185  (seed'ler: [0.8556, 0.9444, 0.9556])
+kontrast x1.5  ortalama 0.9565  (seed'ler: [0.9694, 0.9667, 0.9333])
+== artirmali ==
+normal         ortalama 1.0000  (seed'ler: [1.0, 1.0, 1.0])
+parlak +60     ortalama 0.9806  (seed'ler: [0.9806, 0.9833, 0.9778])
+koyu -60       ortalama 0.9935  (seed'ler: [0.9833, 1.0, 0.9972])
+kontrast x0.5  ortalama 0.9963  (seed'ler: [0.9972, 0.9944, 0.9972])
+kontrast x1.5  ortalama 0.9685  (seed'ler: [0.9694, 0.9778, 0.9583])
